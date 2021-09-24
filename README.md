@@ -372,6 +372,9 @@ HashValue 000003B6F8B7B569529F0A85B20DFB259A99CF88485E08F59FA12F737529D5A8 for I
 <h2>4. Running time for the given case</h2>
 
 Real: 00:01:40.322, CPU: 00:09:46.796, GC gen0: 64802, gen1: 16, gen2: 1
+Real time = 100 seconds <br/>
+CPU time = 586 seconds <br/>
+Ratio= CPU time/ Real time => 5.86
 
 <h2>5. Coin with the most 0s </h2>
 I was able to mine coins with 7 zeroes, below is the output hash and string found<br/>
@@ -380,3 +383,4 @@ I was able to mine coins with 7 zeroes, below is the output hash and string foun
 HashValue 0000000E0F38D20529B3D9CF09A7F7F7A6ACB8EE79A30FFC5CDCA8C802653AE0 for Input String ktakkillapati4U26STAM7K2299265
 </b>
 <h2>6. Largest number of working machines I could connect</h2>
+I was able to connect two machines i.e client connecting to server and able to distribute the work and terminate upon completion of the task given.
