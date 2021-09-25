@@ -67,7 +67,7 @@ let ServerMaster (mailbox: Actor<_>) =
 
     let workerSystem =
         actorSystem.ActorOf(Props.Empty.WithRouter(Akka.Routing.RoundRobinGroup(workerenum)))
-    let workUnit=1000000
+    let workUnit=10000000
     let mutable numberOfZeroes=0
     let mutable numOfIterations=0
     let maxIterations=numberOfWorkers

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tItmMFaZXsikNym6FUNeSrNWDPr2JNFOqnl2roM5KYQvCCDF4w3c5ERgv9sxl70BvR5zfm4EVCdxXvekDcwL/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ktakkillapati\\Desktop\\DOSP-BitcoinMining\\DOSP-BitcoinMining.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ktakkillapati\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
